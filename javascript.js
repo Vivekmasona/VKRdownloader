@@ -22,7 +22,7 @@ var myParamV = myurl.value;
 }
 if(myParamV){
 $.ajax({
-    url:"https://vivek.cyclic.app/hack/instagram?url="+myParamV,
+    url:"https://vivekfy.onrender.com/hack?url="+myParamV,
     type:"GET",
     async:true,
     crossDomain:true,
