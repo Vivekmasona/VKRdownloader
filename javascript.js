@@ -22,7 +22,7 @@ var myParamV = myurl.value;
 }
 if(myParamV){
 $.ajax({
-    url:"https://vivekfy.cyclic.app/hack?url="+myParamV,
+    url:"https://vivek.cyclic.app/hack/youtube?url="+myParamV,
     type:"GET",
     async:true,
     crossDomain:true,
